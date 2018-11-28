@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: me.panpf:sketch-gif-2.6.2-b1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sketch-gif-2.6.2-b1.aar/82a2510a452f6dcfe0fdb4acb88dd2bc/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/sketch-gif-2.6.2-b1.aar/82a2510a452f6dcfe0fdb4acb88dd2bc/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.panpf/sketch-gif/2.6.2-b1/a46b25ea912a92c8cd9b7134cb779af7c24b6426/sketch-gif-2.6.2-b1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

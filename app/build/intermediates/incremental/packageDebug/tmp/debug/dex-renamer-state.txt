@@ -1,0 +1,4 @@
+#Wed Nov 28 16:31:50 CST 2018
+base.0=F\:\\MyEveryDay\\20181128\\Diooto-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

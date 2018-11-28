@@ -1,0 +1,237 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\7e833c572f6f961be2d0603ac30c18b1\AndroidManifest.xml:17:1-22:12
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7de5ab512542b41ef53c9c1ecc738256\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3a29dbfb39f7bbb19ca10fff9c036d27\AndroidManifest.xml:17:1-22:12
+MERGED from [org.salient.artvideoplayer:artplayer-java:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-java-0.6.0.aar\de751362d756b623d0452f3cfa5a3a3c\AndroidManifest.xml:2:1-13:12
+MERGED from [org.salient.artvideoplayer:artplayer-ui:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-ui-0.6.0.aar\a21ee2d051512ebc6bfc296fc7351f93\AndroidManifest.xml:2:1-11:12
+MERGED from [org.salient.artvideoplayer:artplayer-ijk:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-ijk-0.6.0.aar\1a4e125c0440941c3d299e26208f7868\AndroidManifest.xml:2:1-11:12
+MERGED from [org.salient.artvideoplayer:artplayer-armv7a:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-armv7a-0.6.0.aar\0870d1800d2b978ad80ceed4db7b5a7e\AndroidManifest.xml:2:1-17:12
+MERGED from [me.panpf:sketch-gif:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-gif-2.6.2-b1.aar\82a2510a452f6dcfe0fdb4acb88dd2bc\AndroidManifest.xml:2:1-13:12
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54b8863ae9dc26dda7b4605de3e64573\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\806bb17a3399c1dc1a2b4dd62b4d8487\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\87ff57d2bb81501f01ea23d342cb7eb4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\23270b9c0f7a47f39252974f5e803967\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec147f198c198ac2d24a6b88bc4b35ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8ea1113fbf36779ddf3b3b68d706bada\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed72ce566c5e5db6431df4458f52033e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ca2546945f33ade9c74a1e9ffb1f7192\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0176fc915d1094a790da1e11046200ec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dad918847d8b206121a50cfda226badb\AndroidManifest.xml:17:1-22:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.8.aar\f0c5c1c2d6803eba5876fa815194a283\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.8.aar\2aadf874320f70a5e200a4f8e515e5d7\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c2e5467627438380be39cd3960dbf780\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94687380bc236338d5d907d81afa7f86\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7a32c9e348c6249b3003343f52dd1d17\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5877c8d2e0f5e7d8abfe966d1696d9e2\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:3:11-57
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:5:5-79
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:5-79
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-67
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:13:5-67
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:11:5-67
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:7:5-68
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-68
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:8:5-75
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-75
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:8:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:9:5-81
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-81
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:11:5-81
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:5-81
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:10:5-80
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-80
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:17:5-80
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:10:22-77
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.VIBRATE
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:12:5-66
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:5-66
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:18:5-66
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:12:22-63
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:14:5-79
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:5-79
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:19:5-79
+MERGED from [org.salient.artvideoplayer:artplayer-java:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-java-0.6.0.aar\de751362d756b623d0452f3cfa5a3a3c\AndroidManifest.xml:11:5-79
+MERGED from [org.salient.artvideoplayer:artplayer-java:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-java-0.6.0.aar\de751362d756b623d0452f3cfa5a3a3c\AndroidManifest.xml:11:5-79
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:12:5-79
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:14:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:15:5-76
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:5-76
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:20:5-76
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:15:22-73
+application
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:17:5-34:19
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:5-30:19
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:22:5-30:19
+MERGED from [org.salient.artvideoplayer:artplayer-armv7a:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-armv7a-0.6.0.aar\0870d1800d2b978ad80ceed4db7b5a7e\AndroidManifest.xml:11:5-15:19
+MERGED from [org.salient.artvideoplayer:artplayer-armv7a:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-armv7a-0.6.0.aar\0870d1800d2b978ad80ceed4db7b5a7e\AndroidManifest.xml:11:5-15:19
+MERGED from [me.panpf:sketch-gif:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-gif-2.6.2-b1.aar\82a2510a452f6dcfe0fdb4acb88dd2bc\AndroidManifest.xml:11:5-20
+MERGED from [me.panpf:sketch-gif:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-gif-2.6.2-b1.aar\82a2510a452f6dcfe0fdb4acb88dd2bc\AndroidManifest.xml:11:5-20
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:14:5-20
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:14:5-20
+	android:supportsRtl
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:19:9-44
+activity#net.moyokoo.drag.MainActivity
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:24:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:26:17-68
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:28:17-76
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:28:27-74
+activity#net.moyokoo.drag.DisplayActivity
+ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:31:9-33:50
+	android:configChanges
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:33:13-48
+	android:theme
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml:31:19-66
+uses-sdk
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\7e833c572f6f961be2d0603ac30c18b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\7e833c572f6f961be2d0603ac30c18b1\AndroidManifest.xml:20:5-44
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7de5ab512542b41ef53c9c1ecc738256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\7de5ab512542b41ef53c9c1ecc738256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3a29dbfb39f7bbb19ca10fff9c036d27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3a29dbfb39f7bbb19ca10fff9c036d27\AndroidManifest.xml:20:5-44
+MERGED from [org.salient.artvideoplayer:artplayer-java:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-java-0.6.0.aar\de751362d756b623d0452f3cfa5a3a3c\AndroidManifest.xml:7:5-9:41
+MERGED from [org.salient.artvideoplayer:artplayer-java:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-java-0.6.0.aar\de751362d756b623d0452f3cfa5a3a3c\AndroidManifest.xml:7:5-9:41
+MERGED from [org.salient.artvideoplayer:artplayer-ui:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-ui-0.6.0.aar\a21ee2d051512ebc6bfc296fc7351f93\AndroidManifest.xml:7:5-9:41
+MERGED from [org.salient.artvideoplayer:artplayer-ui:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-ui-0.6.0.aar\a21ee2d051512ebc6bfc296fc7351f93\AndroidManifest.xml:7:5-9:41
+MERGED from [org.salient.artvideoplayer:artplayer-ijk:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-ijk-0.6.0.aar\1a4e125c0440941c3d299e26208f7868\AndroidManifest.xml:7:5-9:41
+MERGED from [org.salient.artvideoplayer:artplayer-ijk:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-ijk-0.6.0.aar\1a4e125c0440941c3d299e26208f7868\AndroidManifest.xml:7:5-9:41
+MERGED from [org.salient.artvideoplayer:artplayer-armv7a:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-armv7a-0.6.0.aar\0870d1800d2b978ad80ceed4db7b5a7e\AndroidManifest.xml:7:5-9:41
+MERGED from [org.salient.artvideoplayer:artplayer-armv7a:0.6.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\artplayer-armv7a-0.6.0.aar\0870d1800d2b978ad80ceed4db7b5a7e\AndroidManifest.xml:7:5-9:41
+MERGED from [me.panpf:sketch-gif:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-gif-2.6.2-b1.aar\82a2510a452f6dcfe0fdb4acb88dd2bc\AndroidManifest.xml:7:5-9:41
+MERGED from [me.panpf:sketch-gif:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-gif-2.6.2-b1.aar\82a2510a452f6dcfe0fdb4acb88dd2bc\AndroidManifest.xml:7:5-9:41
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:7:5-9:41
+MERGED from [me.panpf:sketch:2.6.2-b1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\sketch-2.6.2-b1.aar\3d215ab3fee973f7d06cffad45d5f950\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54b8863ae9dc26dda7b4605de3e64573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\54b8863ae9dc26dda7b4605de3e64573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\806bb17a3399c1dc1a2b4dd62b4d8487\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\806bb17a3399c1dc1a2b4dd62b4d8487\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\87ff57d2bb81501f01ea23d342cb7eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\87ff57d2bb81501f01ea23d342cb7eb4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\23270b9c0f7a47f39252974f5e803967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\23270b9c0f7a47f39252974f5e803967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec147f198c198ac2d24a6b88bc4b35ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec147f198c198ac2d24a6b88bc4b35ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8ea1113fbf36779ddf3b3b68d706bada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\8ea1113fbf36779ddf3b3b68d706bada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed72ce566c5e5db6431df4458f52033e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ed72ce566c5e5db6431df4458f52033e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ca2546945f33ade9c74a1e9ffb1f7192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ca2546945f33ade9c74a1e9ffb1f7192\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0176fc915d1094a790da1e11046200ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0176fc915d1094a790da1e11046200ec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dad918847d8b206121a50cfda226badb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\dad918847d8b206121a50cfda226badb\AndroidManifest.xml:20:5-44
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.8.aar\f0c5c1c2d6803eba5876fa815194a283\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.8] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.8.aar\f0c5c1c2d6803eba5876fa815194a283\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.8.aar\2aadf874320f70a5e200a4f8e515e5d7\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.8] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.8.aar\2aadf874320f70a5e200a4f8e515e5d7\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c2e5467627438380be39cd3960dbf780\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\c2e5467627438380be39cd3960dbf780\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94687380bc236338d5d907d81afa7f86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\94687380bc236338d5d907d81afa7f86\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7a32c9e348c6249b3003343f52dd1d17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7a32c9e348c6249b3003343f52dd1d17\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5877c8d2e0f5e7d8abfe966d1696d9e2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\emcc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5877c8d2e0f5e7d8abfe966d1696d9e2\AndroidManifest.xml:20:5-44
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+		ADDED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+		INJECTED from F:\MyEveryDay\20181128\Diooto-master\app\src\main\AndroidManifest.xml
+activity#net.moyokoo.diooto.ImageActivity
+ADDED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:26:9-29:50
+	android:configChanges
+		ADDED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:28:13-74
+	android:theme
+		ADDED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:29:13-47
+	android:name
+		ADDED from [:diooto] F:\MyEveryDay\20181128\Diooto-master\diooto\build\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27:13-60
